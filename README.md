@@ -2,7 +2,7 @@
 
 # Facebook Messenger Utility for ADM Contact
 
-Intallation for Ubuntu..
+Installation for Ubuntu..
 
 Open a new Terminal Window (CTRL+ALT+T) and run..
 
